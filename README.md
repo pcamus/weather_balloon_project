@@ -1,4 +1,4 @@
-# weather_balloon_project
+# Weather balloon project
 
 In this project I use a Raspberry Pi Pico and 2 extension modules to design a weather balloon experiment.
 
@@ -14,4 +14,5 @@ The programming language is MicroPython.
 
 For the prototype I also use a [Quad GPIO Expander](https://www.waveshare.com/pico-quad-expander.htm) from Waveshare
 
-![Prototype setup.](ballon_proto.jpg)
+*Prototype setup.*
+![](ballon_proto.jpg)
