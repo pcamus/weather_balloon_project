@@ -2,7 +2,10 @@
 
 To program and retreive files form the Raspberry Pi Pico I used the Thonny IDE.
 
-I worked with two interpreter the default Thonny interpreter, running on my computer and te MicroPython interpreter running on the Pico board.
+I worked with two interpreters : 
+
+- The default Thonny interpreter, running on my computer.
+- The MicroPython interpreter running on the Pico board.
 
 The interface is the following :
 
