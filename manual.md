@@ -66,3 +66,4 @@ After conversion, two files are available :
 - `acc.csv` with the X,Y,Z acceleration values. In this setup the accelerations range from -32768 à +32767 corresponding to -2g to +2g and the sampling rate is 100 ms.
 - `Press_Temp.csv` with pressure and temperature values. The pressure is in hPa and the temperature in Celsius degree with one decimal. The sampling rate is 10s.
 
+A row with all 0 indicates the beginning of a new logging session.
