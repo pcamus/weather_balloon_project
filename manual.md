@@ -23,6 +23,14 @@ For informations about installing MicroPython interpreter see [here](https://www
 
 ### Program installation.
 
-In your working directory install acc_pt_log.py, icm20948_mod.py, lps22hb_mod.py and bin_to_csv.py
+Connect the Pico to your computer with PICO-UPS-A board switch in OFF position.
 
-icm20948_mod.py, lps22hb_mod.py are 
+In your working directory install `acc_pt_log.py`, `icm20948_mod.py`, `lps22hb_mod.py` and `bin_to_csv.py`
+
+icm20948_mod.py, lps22hb_mod.py are in the embedded-sensors repository : [Pico_IMU_10DOF](https://github.com/pcamus/embedded-sensors/tree/main/Pico_IMU_10DOF)
+
+Rename acc_pt_log.py as `main.py` (MicroPython starts automatically main.py at reset).
+
+With the MicroPython interpreter selected, copy `main.py`, `icm20948_mod.py` and `lps22hb_mod.py` to the Pico (right click on the files then Upload to /)
+
+Disconnect your computer. The logging will start when you switch ON the PICO-UPS-A for a duration equal to the value of the LOG_TIME variable (in main.py).
