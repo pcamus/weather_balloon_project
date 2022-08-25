@@ -29,7 +29,7 @@ Connect the Pico to your computer with PICO-UPS-A board switch in OFF position.
 
 In your working directory install `acc_pt_log.py`, `icm20948_mod.py`, `lps22hb_mod.py` and `bin_to_csv.py`
 
-`icm20948_mod.py`, `lps22hb_mod.py` are in the embedded-sensors repository : [Pico_IMU_10DOF](https://github.com/pcamus/embedded-sensors/tree/main/Pico_IMU_10DOF)
+`icm20948_mod.py`, `lps22hb_mod.py` are in the embedded-sensors repository : [Pico_IMU_10DOF](https://github.com/pcamus/embedded-sensors/tree/main/Pico_IMU_10DOF/my_IMU_code)
 
 Rename `acc_pt_log.py` as `main.py` (MicroPython starts automatically main.py at reset).
 
