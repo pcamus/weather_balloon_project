@@ -18,7 +18,6 @@ For the prototype I also use a [Quad GPIO Expander](https://www.waveshare.com/pi
 ![](ballon_proto.jpg)
 
 The stacked version looks like that :
-![](ballon_stack.jpg)
 
 ![ballon_stack](https://user-images.githubusercontent.com/55027870/186624085-d39da05c-4f0b-4131-a7aa-dfa8215cf763.jpg)
 
