@@ -9,7 +9,7 @@ I worked with two interpreters :
 
 The interface is the following :
 
-
+![](Thonny_ide.jpg)
 
 - `1` is the current directory on my computer.
 - `2` is the current directory on the Pico.
