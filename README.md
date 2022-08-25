@@ -14,12 +14,13 @@ The programming language is MicroPython.
 
 For the prototype I also use a [Quad GPIO Expander](https://www.waveshare.com/pico-quad-expander.htm) from Waveshare
 
-*Prototype setup.*
+*Prototype setup:*
+
 ![](ballon_proto.jpg)
 
-The stacked version looks like that :
+*The stacked version looks like that:*
 
-
+![](ballon_stack.jpg)
 
 ## Software (in MicroPython).
 
