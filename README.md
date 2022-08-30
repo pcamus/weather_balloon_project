@@ -32,3 +32,16 @@ The code appends X,Y,Z acceleration data from the ICM20948 chip to the binary fi
 Acceleration is sampled each 100 ms and pressure + temperature each second. Each value is converted into 2 bytes. 
 
 [bin_to_csv.py](bin_to_csv.py), creates csv files from the binary files. 
+
+## Enclosure.
+
+A 3D enclosure with a removable lid was design with the inventor software.
+
+![](wb_box_3d.jpg)
+
+Step and stl files are available in this repository.
+
+Here is the view of the assembled system :
+
+![](wb_box2.jpg)
+
