@@ -47,6 +47,8 @@ Here is the view of the assembled system :
 
 The box was printed on an Anycubic i3 Mega with PLA filament.
 
+The board assembly is simply slid into the box and wedged with a piece of foam on top.
+
 ## Using the system.
 
 A manual with the procedure for using the system can be found [here](manual.md).
