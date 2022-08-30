@@ -46,3 +46,7 @@ Here is the view of the assembled system :
 ![](wb_box2.jpg)
 
 The box was printed on an Anycubic i3 Mega with PLA filament.
+
+## Using the system.
+
+A manual with the procedure for using the system can be found [here](manual.md).
