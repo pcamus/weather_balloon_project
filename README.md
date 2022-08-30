@@ -35,7 +35,7 @@ Acceleration is sampled each 100 ms and pressure + temperature each second. Each
 
 ## Enclosure.
 
-A 3D enclosure with a removable lid was design with the inventor software.
+A 3D enclosure with a removable lid was design with the Inventor software from Autodesk.
 
 ![](wb_box_3d.jpg)
 
