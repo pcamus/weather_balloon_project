@@ -47,7 +47,9 @@ Here is the view of the assembled system :
 
 The box was printed on an Anycubic i3 Mega with PLA filament.
 
-The board assembly is simply slid into the box and wedged with a piece of foam on top.
+The board assembly is simply slid into the box and wedged with a piece of foam on top.The start switch is located on the right of the side slot, the ON position is under the red and white dot.
+
+Overall dimensions are 71 x 31 x 49 mm, weight is 84g.
 
 ## Using the system.
 
