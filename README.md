@@ -54,3 +54,9 @@ Overall dimensions are 71 x 31 x 49 mm, weight is 84g.
 ## Using the system.
 
 A manual with the procedure for using the system can be found [here](manual.md).
+
+## Flight and results.
+
+The module was launched by IRM on September 24, 2022.
+
+See [here](flight_results) for the details.
