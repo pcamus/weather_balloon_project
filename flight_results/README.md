@@ -22,6 +22,8 @@ With :
 
 Substituing with the numerical values leads to $h=29.2656.ln(\frac{p_0}{p})$
 
+For example for the pressure at t = 520 s the measured value was 759 hPa , with a ground pressure $p_0$ of 1042 hPa the altitude h, given by the formula is 
+
 Vertical acceleration :
 
 ![](acc.jpg)
