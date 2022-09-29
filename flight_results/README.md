@@ -17,4 +17,6 @@ Vertical acceleration :
 
 Thank you to the IRM for allowing us to use its balloon and a very big thanks for the radio amateurs of the [UBA](https://www.uba.be/fr/radioamateurisme) who recovered the probe.
 
+The flight dashboard is [here](https://grafana.v2.sondehub.org/d/HJgOZLq7k/basic?var-Payload=ON4IR-1&from=1664025700000&to=1664035752000&orgId=1)
+
 [Here is a pic of me ready to launch the balloon](IRM2209_03.jpg).
