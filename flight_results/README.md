@@ -14,15 +14,15 @@ The formula giving altitude (h) versus pressure (p) is  the following $h=\frac{R
 With : 
 
 - h : altitude above ground
-- R : ideal gaz constant
-- T : temperature at altitude h
-- $\mu$ : air molar mass
-- g : gravity of earth
+- R : ideal gaz constant = 8.3143 J/K.mol
+- T : temperature at altitude h (in °K)
+- $\mu$ : air molar mass = 0.02896 kg/mol
+- g : gravity of earth = 9.81 m/$s^2$
 - $p_0$ : pressure at ground
 
-Substituing with the numerical values leads to $h=29.2656.ln(\frac{p_0}{p})$
+Substituing with the numerical values leads to $h=- 29.2656.T.ln(\frac{p}{p_0})$
 
-For example for the pressure at t = 520 s the measured value was 759 hPa , with a ground pressure $p_0$ of 1042 hPa the altitude h, given by the formula is 
+For example at t = 520 s, the measured pressure was 759 hPa , with a ground pressure $p_0$ of 1042 hPa and a temperature of 288°K, the altitude h given by the formula is 2671 m
 
 Vertical acceleration :
 
