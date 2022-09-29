@@ -20,6 +20,8 @@ With :
 - g : gravity of earth
 - $p_0$ : pressure at ground
 
+Substituing with the numerical values leads to $h=29.2656.ln(\frac{p_0}{p})$
+
 Vertical acceleration :
 
 ![](acc.jpg)
