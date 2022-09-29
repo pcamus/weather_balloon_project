@@ -11,7 +11,14 @@ Pressure variation during the flight :
 
 The formula giving altitude (h) versus pressure (p) is  the following $h=\frac{R.T}{\mu.g}ln(\frac{p_0}{p})$
 
+With : 
 
+- h : altitude above ground
+- R : ideal gaz constant
+- T : temperature at altitude h
+- $\mu$ : air molar mass
+- g : gravity of earth
+- $p_0$ : pressure at ground
 
 Vertical acceleration :
 
