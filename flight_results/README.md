@@ -9,7 +9,9 @@ Pressure variation during the flight :
 
 ![](pressure.jpg)
 
-The formula giving altitude (h) versus pressure (p) is  the following $h=\frac{RT}{\\mu.g}ln(\frac{p_0}{p})$
+The formula giving altitude (h) versus pressure (p) is  the following $h=\frac{R.T}{\mu.g}ln(\frac{p_0}{p})$
+
+
 
 Vertical acceleration :
 
