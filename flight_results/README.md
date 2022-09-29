@@ -20,7 +20,7 @@ With :
 - g : gravity of earth = 9.81 m/$s^2$
 - $p_0$ : pressure at ground
 
-Substituing with the numerical values leads to $h=-29.2656 T ln(\frac{p}{p_0})$
+Substituing with the numerical values leads to $h=-29.2656\!T\!ln(\frac{p}{p_0})$
 
 *For example at t = 520 s, the measured pressure was 759 hPa , with a ground pressure $p_0$ of 1042 hPa and a temperature of 290.5°K, the altitude h given by the formula is: **2695 m**.*
 
