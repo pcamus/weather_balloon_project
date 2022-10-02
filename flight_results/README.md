@@ -5,7 +5,7 @@ Due to an incorrect value for the flight duration in the MicroPython program, th
 The flight peaked at 34 km altitude. Its total duration was 2h15.
 
 
-Pressure variation during the flight :
+**Pressure variation during the flight:**
 
 ![](pressure.jpg)
 
@@ -26,13 +26,14 @@ For example at t = 520 s, the measured pressure was 759 hPa , with a ground pres
 
 *The altitude above ground given by the tracking at this moment was: **2960 m**.*
 
-Altitude calculated from the pressure vs altitude with constant rate of ascent.
+**Altitude calculated from the pressure vs altitude with constant rate of ascent:**
 
 ![](altitude.jpg)
 
-The average speed is 5.18 m/s
+The average speed is **5.18 m/s**
 
-Vertical acceleration :
+/
+**Vertical acceleration:**
 
 ![](acc.jpg)
 
