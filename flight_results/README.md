@@ -46,7 +46,6 @@ The acceleration curve is not usable to compute the speed and altitude for sever
 - The wind disturbs the motion...
 
 \
-
 Thank you to the IRM for allowing us to use its balloon and a very big thanks for the radio amateurs of the [UBA](https://www.uba.be/fr/radioamateurisme) who recovered the probe.
 
 The flight dashboard is [here](https://grafana.v2.sondehub.org/d/HJgOZLq7k/basic?var-Payload=ON4IR-1&from=1664025700000&to=1664035752000&orgId=1).
