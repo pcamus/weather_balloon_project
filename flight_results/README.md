@@ -30,9 +30,9 @@ For example at t = 520 s, the measured pressure was 759 hPa , with a ground pres
 
 ![](altitude.jpg)
 
-The average speed is **5.18 m/s**
+The average speed is **5.18 m/s**.  
+/  
 
-/
 **Vertical acceleration:**
 
 ![](acc.jpg)
