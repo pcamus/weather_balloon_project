@@ -22,11 +22,15 @@ With :
 
 Substituing with the numerical values leads to $h=-29.2656\ T\ ln(\frac{p}{p_0})$
 
-For example at t = 520 s, the measured pressure was 759 hPa , with a ground pressure $p_0$ of 1042 hPa and a temperature of 290.5°K, the altitude above ground h given by the formula is: **2695 m**.
+For example at t = 520 s, the measured pressure was 759 hPa , with a ground pressure $p_0$ of 1042 hPa and a temperature of 290.5°K, the altitude above ground h given by the formula is: **2694 m**.
 
 *The altitude above ground given by the tracking at this moment was: **2960 m**.*
 
+Altitude calculated from the pressure vs altitude with constant rate of ascent.
 
+![](altitude.jpg)
+
+The average speed is 5.18 m/s
 
 Vertical acceleration :
 
