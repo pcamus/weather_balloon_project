@@ -32,7 +32,7 @@ For example at t = 520 s, the measured pressure was 759 hPa , with a ground pres
 
 The average speed is **5.18 m/s**. 
 
-Balloon speed calculation from Newton's law with its differential equation resolution is [here](balloon_equation.pdf).
+Balloon speed calculation from Newton's law with its differential equation resolution is [here](balloon_equation.pdf). Integration is made with sympy : [edif_bal.py](edif_bal.py)
 
 The difference between measured speed and calculated speed is due to our approximate knowledge of some balloon parameters.
 
